@@ -1,4 +1,7 @@
 android_util
 ============
 
-Androidのutilityクラスをまとめる
+Androidのutilityクラスのまとめ
+
+
+demoのような感じでアプリケーションにしたい.
